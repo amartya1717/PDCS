@@ -16,3 +16,4 @@ pip install numpy scipy matplotlib
 ## Usage
 python pdcs_vdw.py
 python pdcs_neural.py
+python pdcs_combination.py
