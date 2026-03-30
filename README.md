@@ -8,6 +8,7 @@ Amartya Bhushan — arXiv:[link]
 - pdcs_core.py  — canonical PDCS class (import this)
 - pdcs_vdw.py   — van der Waals verification
 - pdcs_neural.py — neural bifurcation verification
+- pdcs_combination.py - combination verufication
 
 ## Requirements
 pip install numpy scipy matplotlib
